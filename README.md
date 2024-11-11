@@ -1,4 +1,4 @@
-![Bank Analysis]([https://example.com/your-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuhurasolutions.com%2F2024%2F03%2F28%2Fautomating-mortgage-loan-analysis-with-ai-a-closer-look-at-uhura%2F&psig=AOvVaw0TTsY8HptRT7Q6hAN4PCP_&ust=1731385888911000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCq-ay504kDFQAAAAAdAAAAABAE))
+![Bank Analysis](./Images/Mortgage.png)
 # Bank Loan Power BI Report
 
 ## Introduction
