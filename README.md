@@ -1,4 +1,4 @@
-![Bank Analysis](./Images/Mortgage.png)
+![Bank Analysis](./Images/Mortgage.jpg)
 # Bank Loan Power BI Report
 
 ## Introduction
